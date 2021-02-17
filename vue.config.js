@@ -9,5 +9,5 @@ module.exports = {
     }
   },
   runtimeCompiler: true,
-  publicPath: "/"
+  publicPath: ""
 };
